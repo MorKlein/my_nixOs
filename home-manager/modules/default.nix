@@ -1,0 +1,22 @@
+{
+  imports = [
+    ./kitty.nix
+    ./fish.nix
+    ./bat.nix
+    ./chromium.nix
+    ./eza.nix
+    ./git.nix
+    ./niri
+    ./lazygit.nix
+    ./neovim.nix
+    ./obsidian
+    ./ranger.nix
+    ./starship.nix
+    ./stylix.nix
+    ./swaync
+    ./tmux.nix
+    ./waybar
+    ./wofi
+    ./zathura.nix
+  ];
+}
