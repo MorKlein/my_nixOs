@@ -24,6 +24,7 @@
     # Games
     osu-lazer-bin
     steam
+    prismlauncher
 
     # CLI utils
     bc
@@ -56,6 +57,7 @@
     unstable.codex
     lsd
     gh
+    ghostscript
 
     # Coding stuff
     jdk25

@@ -7,7 +7,7 @@
 	```bash
 	mkdir ~/flake
 	cd ~/flake
-    git clone https://github.com/Andrey0189/nixos-config
+    git clone https://github.com/MorKlein/nixos-config
     cd nixos-config
     
     cp /etc/nixos/hardware-configuration.nix ./
