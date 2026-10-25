@@ -55,6 +55,7 @@
     zip
     unstable.codex
     lsd
+    gh
 
     # Coding stuff
     jdk25
