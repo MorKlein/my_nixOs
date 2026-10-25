@@ -29,7 +29,7 @@
         ];
     ...
 
-
+**Собрать**:
     ```bash
     cd nixos-config
     git add .
