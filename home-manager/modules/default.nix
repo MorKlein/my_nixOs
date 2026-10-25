@@ -18,5 +18,6 @@
     ./waybar
     ./wofi
     ./zathura.nix
+    ./gh.nix
   ];
 }
